@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>ch13.work.command</OriginalElement>
+  <nodes>
+    <node x="1178.2368055555555" y="166.0">ch13.work.command.Wheat</node>
+    <node x="388.99999999999994" y="601.0">ch13.work.command.Main</node>
+    <node x="908.2368055555555" y="166.0">ch13.work.command.Beans</node>
+    <node x="487.99999999999994" y="411.0">ch13.work.command.BuyCommodity</node>
+    <node x="0.0" y="411.0">ch13.work.command.SellCommodity</node>
+    <node x="1126.0333333333333" y="445.5">ch13.work.command.CommodityFactory</node>
+    <node x="263.99999999999994" y="411.5">ch13.work.command.Broker</node>
+    <node x="638.2368055555555" y="166.0">ch13.work.command.Corn</node>
+    <node x="244.74999999999994" y="221.5">ch13.work.command.Order</node>
+    <node x="631.3527777777778" y="0.0">ch13.work.command.Commodity</node>
+    <node x="1449.2368055555555" y="211.0">ch13.work.command.CommodityType</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="ch13.work.command.Main" target="ch13.work.command.Order">
+      <point x="-78.125" y="-37.0" />
+      <point x="435.87499999999994" y="571.0" />
+      <point x="253.49999999999994" y="571.0" />
+      <point x="253.49999999999994" y="391.0" />
+      <point x="283.74999999999994" y="391.0" />
+      <point x="-39.0" y="37.0" />
+    </edge>
+    <edge source="ch13.work.command.Beans" target="ch13.work.command.Commodity">
+      <point x="0.0" y="-92.5" />
+      <point x="1033.2368055555555" y="136.0" />
+      <point x="721.4152777777778" y="136.0" />
+      <point x="24.5625" y="48.0" />
+    </edge>
+    <edge source="ch13.work.command.Main" target="ch13.work.command.SellCommodity">
+      <point x="-109.375" y="-37.0" />
+      <point x="404.62499999999994" y="581.0" />
+      <point x="121.5" y="581.0" />
+      <point x="0.0" y="60.0" />
+    </edge>
+    <edge source="ch13.work.command.Broker" target="ch13.work.command.Order">
+      <point x="-68.0" y="-59.5" />
+      <point x="297.99999999999994" y="391.0" />
+      <point x="309.74999999999994" y="391.0" />
+      <point x="-13.0" y="37.0" />
+    </edge>
+    <edge source="ch13.work.command.Main" target="ch13.work.command.CommodityFactory">
+      <point x="46.875" y="-37.0" />
+      <point x="560.875" y="561.0" />
+      <point x="1211.5333333333333" y="561.0" />
+      <point x="-85.5" y="25.5" />
+    </edge>
+    <edge source="ch13.work.command.CommodityFactory" target="ch13.work.command.Corn">
+      <point x="-136.8" y="-25.5" />
+      <point x="1160.2333333333333" y="391.0" />
+      <point x="763.2368055555555" y="391.0" />
+      <point x="0.0" y="92.5" />
+    </edge>
+    <edge source="ch13.work.command.Main" target="ch13.work.command.Broker">
+      <point x="-46.875" y="-37.0" />
+      <point x="467.12499999999994" y="561.0" />
+      <point x="314.99999999999994" y="561.0" />
+      <point x="-51.0" y="59.5" />
+    </edge>
+    <edge source="ch13.work.command.Corn" target="ch13.work.command.Commodity">
+      <point x="0.0" y="-92.5" />
+      <point x="763.2368055555555" y="146.0" />
+      <point x="705.0402777777778" y="146.0" />
+      <point x="8.1875" y="48.0" />
+    </edge>
+    <edge source="ch13.work.command.CommodityFactory" target="ch13.work.command.Commodity">
+      <point x="68.39999999999998" y="-25.5" />
+      <point x="1365.4333333333334" y="381.0" />
+      <point x="1438.7368055555555" y="381.0" />
+      <point x="1438.7368055555555" y="116.0" />
+      <point x="754.1652777777778" y="116.0" />
+      <point x="57.3125" y="48.0" />
+    </edge>
+    <edge source="ch13.work.command.SellCommodity" target="ch13.work.command.Order">
+      <point x="81.0" y="-60.0" />
+      <point x="202.5" y="381.0" />
+      <point x="257.74999999999994" y="381.0" />
+      <point x="-65.0" y="37.0" />
+    </edge>
+    <edge source="ch13.work.command.Main" target="ch13.work.command.CommodityType">
+      <point x="109.375" y="-37.0" />
+      <point x="623.375" y="581.0" />
+      <point x="1560.2368055555555" y="581.0" />
+      <point x="37.0" y="47.5" />
+    </edge>
+    <edge source="ch13.work.command.SellCommodity" target="ch13.work.command.Commodity">
+      <point x="0.0" y="-60.0" />
+      <point x="121.5" y="391.0" />
+      <point x="87.86597222222213" y="391.0" />
+      <point x="87.86597222222213" y="126.0" />
+      <point x="655.9152777777778" y="126.0" />
+      <point x="-40.9375" y="48.0" />
+    </edge>
+    <edge source="ch13.work.command.Wheat" target="ch13.work.command.Commodity">
+      <point x="0.0" y="-92.5" />
+      <point x="1303.2368055555555" y="126.0" />
+      <point x="737.7902777777778" y="126.0" />
+      <point x="40.9375" y="48.0" />
+    </edge>
+    <edge source="ch13.work.command.CommodityFactory" target="ch13.work.command.Beans">
+      <point x="-68.39999999999998" y="-25.5" />
+      <point x="1228.6333333333332" y="381.0" />
+      <point x="1033.2368055555555" y="381.0" />
+      <point x="0.0" y="92.5" />
+    </edge>
+    <edge source="ch13.work.command.CommodityFactory" target="ch13.work.command.CommodityType">
+      <point x="136.79999999999995" y="-25.5" />
+      <point x="1433.8333333333333" y="391.0" />
+      <point x="1486.2368055555555" y="391.0" />
+      <point x="-37.0" y="47.5" />
+    </edge>
+    <edge source="ch13.work.command.BuyCommodity" target="ch13.work.command.Commodity">
+      <point x="82.0" y="-60.0" />
+      <point x="693.0" y="391.0" />
+      <point x="627.7368055555555" y="391.0" />
+      <point x="627.7368055555555" y="146.0" />
+      <point x="688.6652777777778" y="146.0" />
+      <point x="-8.1875" y="48.0" />
+    </edge>
+    <edge source="ch13.work.command.BuyCommodity" target="ch13.work.command.Order">
+      <point x="-82.0" y="-60.0" />
+      <point x="529.0" y="371.0" />
+      <point x="387.74999999999994" y="371.0" />
+      <point x="65.0" y="37.0" />
+    </edge>
+    <edge source="ch13.work.command.CommodityFactory" target="ch13.work.command.Wheat">
+      <point x="0.0" y="-25.5" />
+      <point x="1297.0333333333333" y="391.0" />
+      <point x="1303.2368055555555" y="391.0" />
+      <point x="0.0" y="92.5" />
+    </edge>
+    <edge source="ch13.work.command.Main" target="ch13.work.command.BuyCommodity">
+      <point x="15.625" y="-37.0" />
+      <point x="529.625" y="551.0" />
+      <point x="611.0" y="551.0" />
+      <point x="0.0" y="60.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.902158273381295" x="799.0" y="337.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

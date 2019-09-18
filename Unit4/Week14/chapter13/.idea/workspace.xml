@@ -1,0 +1,1151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc4f9b92-d0f9-4446-9035-a5afb474ad42" name="Default" comment="Adding UML">
+      <change beforePath="$PROJECT_DIR$/src/ch13/work/template/ReadFromArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13/work/template/ReadFromArray.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-513436474">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="command" value="1" />
+          <entry key="facade" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="96" />
+          <entry key="template" value="1" />
+          <entry key="test" value="1" />
+          <entry key="txt" value="4" />
+          <entry key="uml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="96" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="UML" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2465" />
+          <entry key="test" value="7" />
+          <entry key="txt" value="72" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2465" />
+          <entry key="PLAIN_TEXT" value="79" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ch13/work/template/ReadfromArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+              <folding>
+                <element signature="e#439#440#0" expanded="true" />
+                <element signature="e#515#516#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/ch13/work/command/Stock.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/adaptor/MediaPlayer.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/adaptor/AdvancedMediaPlayer.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/adaptor/VlcPlayer.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/adaptor/MediaAdapter.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/adaptor/AudioPlayer.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/adaptor/Mp4Player.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/adaptor/Main.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/ch13/work/facade/Shape.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/ch13/work/facade/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/ch13/work/facade/Square.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/ch13/work/facade/Circle.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/ch13/work/facade/ShapeMaker.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/ch13/work/facade/Main.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/template/ReadfromList.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/template/Franky.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/template/prideprejudice" />
+        <option value="$PROJECT_DIR$/src/ch13/work/commandCommodities/Main.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/facade/Shape.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/facade/LineAdapter.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/facade/ShapeMaker.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/facade/CircleAdapter.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/template/BookReader.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/template/FileInput.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/template/test" />
+        <option value="$PROJECT_DIR$/src/ch13/work/command/CommodityType.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/command/CommodityFactory.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/command/Commodity.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/command/Order.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/command/BuyCommodity.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/command/Broker.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/command/SellCommodity.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/facade/RectangleAdapter.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/facade/SquareAdapter.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/facade/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/facade/Line.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/facade/Square.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/facade/Circle.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/template/ReadfromFile.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/template/ReadFromArray.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/template/ReadfromUser.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/template/Main.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/template/ReadFromFile.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/command/SellStock.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/command/BuyStock.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/command/Beans.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/command/Corn.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/command/Wheat.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/command/Main.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/facade/Main.java" />
+        <option value="$PROJECT_DIR$/src/ch13/work/template/ReadfromArray.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="chapter13" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chapter13" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter13" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chapter13" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter13" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chapter13" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter13" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="adaptor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chapter13" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter13" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="command" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chapter13" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter13" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="facade" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chapter13" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter13" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chapter13" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543993050671" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ch13.work.template" />
+      <recent name="ch13.work.ch13.work.facade" />
+      <recent name="ch13.work.adaptor" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13.work.adaptor.Main" />
+      <module name="chapter13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch13.work.adaptor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13.work.facade.Main" />
+      <module name="chapter13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch13.work.facade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ch13.work.command.Main" />
+      <module name="chapter13" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13.work.template.Main" />
+      <module name="chapter13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch13.work.template.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ch13.work.facade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ch13.work.facade.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="chapter13" />
+      <envs />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (3)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc4f9b92-d0f9-4446-9035-a5afb474ad42" name="Default" comment="" />
+      <created>1524664807737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524664807737</updated>
+      <workItem from="1524664811216" duration="3387000" />
+      <workItem from="1524944710685" duration="3694000" />
+      <workItem from="1543450952148" duration="13556000" />
+      <workItem from="1543968573718" duration="1866000" />
+      <workItem from="1544034617980" duration="209000" />
+      <workItem from="1544044486271" duration="72000" />
+      <workItem from="1544055060267" duration="174000" />
+    </task>
+    <task id="LOCAL-00001" summary="After class">
+      <created>1543460860713</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543460860714</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Finished labs">
+      <created>1543617846981</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1543617846981</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Finished labs and adding file to GitHub">
+      <created>1543618002728</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1543618002728</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Adding UML">
+      <created>1543618262191</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1543618262191</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adding UML">
+      <created>1543992974573</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1543992974573</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22958000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16595136" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32970297" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25544554" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.32871288" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15761448" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.25544554" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32891566" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="After class" />
+    <MESSAGE value="Finished labs" />
+    <MESSAGE value="Finished labs and adding file to GitHub" />
+    <MESSAGE value="Adding UML" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding UML" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/adaptor/Mp4Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#224#225#0" />
+            <element signature="e#296#297#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/adaptor/VlcPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#138#139#0" />
+            <element signature="e#210#211#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/template/prideprejudice" />
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/adaptor/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/adaptor/AudioPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/adaptor/AdvancedMediaPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/commandCommodities/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/adaptor/MediaPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/adaptor/MediaAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/template/prideprejudice.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/template/Franky.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="7255" column="9" selection-start-line="7253" selection-start-column="8" selection-end-line="7255" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/template/test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/command/CommodityType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/command/Stock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="88" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/command/CommodityFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/command/Commodity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/command/SellCommodity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/command/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/template/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/chapter13/ch13/work/template/prideprejudice.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/template/BookReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/template/ReadFromUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" lean-forward="true" selection-start-column="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/template/ReadFromFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/command/SellStock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="14" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/command/BuyStock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="75" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/command/Wheat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>ch13.work.template</OriginalElement>
+          <nodes>
+            <node x="217.0" y="0.0">ch13.work.template.BookReader</node>
+            <node x="0.0" y="212.0">ch13.work.template.ReadFromFile</node>
+            <node x="237.0" y="397.0">ch13.work.template.Franky</node>
+            <node x="434.0" y="212.0">ch13.work.template.ReadFromArray</node>
+            <node x="0.0" y="583.0">ch13.work.template.Main</node>
+            <node x="206.0" y="190.0">ch13.work.template.ReadFromUser</node>
+            <node x="0.0" y="397.0">ch13.work.template.FileInput</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="ch13.work.template.ReadFromUser" target="ch13.work.template.BookReader">
+              <point x="0.0" y="-81.0" />
+              <point x="0.0" y="70.0" />
+            </edge>
+            <edge source="ch13.work.template.ReadFromArray" target="ch13.work.template.BookReader">
+              <point x="0.0" y="-59.0" />
+              <point x="527.0" y="165.0" />
+              <point x="372.0" y="165.0" />
+              <point x="62.0" y="70.0" />
+            </edge>
+            <edge source="ch13.work.template.ReadFromFile" target="ch13.work.template.BookReader">
+              <point x="0.0" y="-59.0" />
+              <point x="93.0" y="165.0" />
+              <point x="248.0" y="165.0" />
+              <point x="-62.0" y="70.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-185.0" y="154.0" />
+          <SelectedNodes>
+            <node>ch13.work.template.ReadFromUser</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter13.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="uml://JAVA/ch13.work.template">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>ch13.work.template</OriginalElement>
+          <nodes>
+            <node x="220.765625" y="0.5">ch13.work.template.BookReader</node>
+            <node x="494.375" y="213.0">ch13.work.template.ReadFromFile</node>
+            <node x="0.0" y="33.5">ch13.work.template.Franky</node>
+            <node x="34.9375" y="213.0">ch13.work.template.ReadFromArray</node>
+            <node x="221.125" y="403.0">ch13.work.template.Main</node>
+            <node x="266.375" y="191.0">ch13.work.template.ReadFromUser</node>
+            <node x="539.375" y="0.0">ch13.work.template.FileInput</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="ch13.work.template.Main" target="ch13.work.template.BookReader">
+              <point x="-23.0" y="-25.5" />
+              <point x="290.125" y="378.0" />
+              <point x="255.875" y="378.0" />
+              <point x="255.875" y="166.0" />
+              <point x="290.515625" y="166.0" />
+              <point x="-23.25" y="70.0" />
+            </edge>
+            <edge source="ch13.work.template.Main" target="ch13.work.template.ReadFromArray">
+              <point x="-69.0" y="-25.5" />
+              <point x="244.125" y="378.0" />
+              <point x="127.9375" y="378.0" />
+              <point x="0.0" y="59.0" />
+            </edge>
+            <edge source="ch13.work.template.Main" target="ch13.work.template.ReadFromFile">
+              <point x="69.0" y="-25.5" />
+              <point x="382.125" y="378.0" />
+              <point x="587.375" y="378.0" />
+              <point x="0.0" y="59.0" />
+            </edge>
+            <edge source="ch13.work.template.ReadFromUser" target="ch13.work.template.BookReader">
+              <point x="0.0" y="-81.0" />
+              <point x="370.375" y="166.0" />
+              <point x="337.015625" y="166.0" />
+              <point x="23.25" y="70.0" />
+            </edge>
+            <edge source="ch13.work.template.ReadFromArray" target="ch13.work.template.Franky">
+              <point x="-62.0" y="-59.0" />
+              <point x="65.9375" y="166.0" />
+              <point x="45.5" y="166.0" />
+              <point x="-45.5" y="37.0" />
+            </edge>
+            <edge source="ch13.work.template.ReadFromFile" target="ch13.work.template.FileInput">
+              <point x="62.0" y="-59.0" />
+              <point x="649.375" y="166.0" />
+              <point x="683.375" y="166.0" />
+              <point x="48.0" y="70.5" />
+            </edge>
+            <edge source="ch13.work.template.ReadFromArray" target="ch13.work.template.BookReader">
+              <point x="62.0" y="-59.0" />
+              <point x="189.9375" y="166.0" />
+              <point x="244.015625" y="166.0" />
+              <point x="-69.75" y="70.0" />
+            </edge>
+            <edge source="ch13.work.template.ReadFromFile" target="ch13.work.template.BookReader">
+              <point x="-62.0" y="-59.0" />
+              <point x="525.375" y="166.0" />
+              <point x="383.515625" y="166.0" />
+              <point x="69.75" y="70.0" />
+            </edge>
+            <edge source="ch13.work.template.Main" target="ch13.work.template.ReadFromUser">
+              <point x="23.0" y="-25.5" />
+              <point x="336.125" y="378.0" />
+              <point x="370.375" y="378.0" />
+              <point x="0.0" y="81.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-185.0" y="117.0" />
+          <SelectedNodes>
+            <node>ch13.work.template.ReadFromUser</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/command/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="54" column="49" selection-start-line="54" selection-start-column="49" selection-end-line="54" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/ch13.work.facade">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>ch13.work.facade</OriginalElement>
+          <nodes>
+            <node x="49.75" y="111.0">ch13.work.facade.SquareAdapter</node>
+            <node x="1017.9999999999999" y="111.0">ch13.work.facade.CircleAdapter</node>
+            <node x="0.0" y="0.0">ch13.work.facade.Square</node>
+            <node x="770.9999999999999" y="111.0">ch13.work.facade.LineAdapter</node>
+            <node x="296.74999999999994" y="111.0">ch13.work.facade.RectangleAdapter</node>
+            <node x="498.48958333333337" y="0.0">ch13.work.facade.Shape</node>
+            <node x="1091.75" y="0.0">ch13.work.facade.Circle</node>
+            <node x="583.9999999999999" y="112.0">ch13.work.facade.ShapeMaker</node>
+            <node x="481.4999999999999" y="278.0">ch13.work.facade.Main</node>
+            <node x="241.25" y="0.0">ch13.work.facade.Rectangle</node>
+            <node x="832.7499999999999" y="0.0">ch13.work.facade.Line</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="ch13.work.facade.SquareAdapter" target="ch13.work.facade.Shape">
+              <point x="75.33333333333337" y="-48.5" />
+              <point x="238.08333333333337" y="81.0" />
+              <point x="517.3229166666667" y="81.0" />
+              <point x="-94.16666666666663" y="25.5" />
+            </edge>
+            <edge source="ch13.work.facade.RectangleAdapter" target="ch13.work.facade.Shape">
+              <point x="83.66666666666669" y="-48.5" />
+              <point x="505.91666666666663" y="91.0" />
+              <point x="554.9895833333334" y="91.0" />
+              <point x="-56.5" y="25.5" />
+            </edge>
+            <edge source="ch13.work.facade.CircleAdapter" target="ch13.work.facade.Shape">
+              <point x="-75.33333333333326" y="-48.5" />
+              <point x="1055.6666666666665" y="71.0" />
+              <point x="705.65625" y="71.0" />
+              <point x="94.16666666666663" y="25.5" />
+            </edge>
+            <edge source="ch13.work.facade.LineAdapter" target="ch13.work.facade.Shape">
+              <point x="-75.33333333333331" y="-48.5" />
+              <point x="808.6666666666665" y="81.0" />
+              <point x="667.9895833333334" y="81.0" />
+              <point x="56.5" y="25.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.365296803652968" x="647.0" y="165.0" />
+          <SelectedNodes>
+            <node>ch13.work.facade.SquareAdapter</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/ch13.work.command">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>ch13.work.command</OriginalElement>
+          <nodes>
+            <node x="1178.2368055555555" y="166.0">ch13.work.command.Wheat</node>
+            <node x="388.99999999999994" y="601.0">ch13.work.command.Main</node>
+            <node x="908.2368055555555" y="166.0">ch13.work.command.Beans</node>
+            <node x="0.0" y="411.0">ch13.work.command.SellCommodity</node>
+            <node x="487.99999999999994" y="411.0">ch13.work.command.BuyCommodity</node>
+            <node x="1126.0333333333333" y="445.5">ch13.work.command.CommodityFactory</node>
+            <node x="263.99999999999994" y="411.5">ch13.work.command.Broker</node>
+            <node x="631.3527777777778" y="0.0">ch13.work.command.Commodity</node>
+            <node x="244.74999999999994" y="221.5">ch13.work.command.Order</node>
+            <node x="638.2368055555555" y="166.0">ch13.work.command.Corn</node>
+            <node x="1449.2368055555555" y="211.0">ch13.work.command.CommodityType</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="ch13.work.command.Beans" target="ch13.work.command.Commodity">
+              <point x="0.0" y="-92.5" />
+              <point x="1033.2368055555555" y="136.0" />
+              <point x="721.4152777777778" y="136.0" />
+              <point x="24.5625" y="48.0" />
+            </edge>
+            <edge source="ch13.work.command.Corn" target="ch13.work.command.Commodity">
+              <point x="0.0" y="-92.5" />
+              <point x="763.2368055555555" y="146.0" />
+              <point x="705.0402777777778" y="146.0" />
+              <point x="8.1875" y="48.0" />
+            </edge>
+            <edge source="ch13.work.command.SellCommodity" target="ch13.work.command.Order">
+              <point x="81.0" y="-60.0" />
+              <point x="202.5" y="381.0" />
+              <point x="257.74999999999994" y="381.0" />
+              <point x="-65.0" y="37.0" />
+            </edge>
+            <edge source="ch13.work.command.Wheat" target="ch13.work.command.Commodity">
+              <point x="0.0" y="-92.5" />
+              <point x="1303.2368055555555" y="126.0" />
+              <point x="737.7902777777778" y="126.0" />
+              <point x="40.9375" y="48.0" />
+            </edge>
+            <edge source="ch13.work.command.BuyCommodity" target="ch13.work.command.Order">
+              <point x="-82.0" y="-60.0" />
+              <point x="529.0" y="371.0" />
+              <point x="387.74999999999994" y="371.0" />
+              <point x="65.0" y="37.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.29666254635352285" x="799.0" y="338.0" />
+          <SelectedNodes>
+            <node>ch13.work.command.Wheat</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/template/FileInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/command/Broker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/command/Beans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="147" selection-start-line="15" selection-start-column="120" selection-end-line="15" selection-end-column="147" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/command/Corn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="145" selection-start-line="19" selection-start-column="145" selection-end-line="19" selection-end-column="145" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/command/BuyCommodity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="17" column="5" selection-start-line="14" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/facade/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="65" lean-forward="true" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/facade/RectangleAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="32" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/facade/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/facade/LineAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="34" />
+          <folding>
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/facade/Line.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="94" selection-start-line="4" selection-start-column="94" selection-end-line="4" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/facade/CircleAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+          <folding>
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/facade/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/facade/SquareAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/facade/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="92" selection-start-line="5" selection-start-column="92" selection-end-line="5" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/facade/ShapeAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/facade/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="42" lean-forward="true" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/facade/ShapeMaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch13/work/template/ReadfromArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding>
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>chapter13</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

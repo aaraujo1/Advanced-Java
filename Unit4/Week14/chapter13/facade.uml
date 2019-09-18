@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>ch13.work.facade</OriginalElement>
+  <nodes>
+    <node x="1018.0" y="111.0">ch13.work.facade.CircleAdapter</node>
+    <node x="0.0" y="0.0">ch13.work.facade.Square</node>
+    <node x="49.75" y="111.0">ch13.work.facade.SquareAdapter</node>
+    <node x="771.0" y="111.0">ch13.work.facade.LineAdapter</node>
+    <node x="296.74999999999994" y="111.0">ch13.work.facade.RectangleAdapter</node>
+    <node x="1091.75" y="0.0">ch13.work.facade.Circle</node>
+    <node x="498.48958333333337" y="0.0">ch13.work.facade.Shape</node>
+    <node x="584.0" y="112.0">ch13.work.facade.ShapeMaker</node>
+    <node x="481.49999999999994" y="278.0">ch13.work.facade.Main</node>
+    <node x="241.25" y="0.0">ch13.work.facade.Rectangle</node>
+    <node x="832.75" y="0.0">ch13.work.facade.Line</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="ch13.work.facade.CircleAdapter" target="ch13.work.facade.Shape">
+      <point x="-75.33333333333331" y="-48.5" />
+      <point x="1055.6666666666667" y="71.0" />
+      <point x="705.65625" y="71.0" />
+      <point x="94.16666666666663" y="25.5" />
+    </edge>
+    <edge source="ch13.work.facade.Main" target="ch13.work.facade.SquareAdapter">
+      <point x="-61.333333333333314" y="-25.5" />
+      <point x="512.1666666666666" y="248.0" />
+      <point x="162.75" y="248.0" />
+      <point x="0.0" y="48.5" />
+    </edge>
+    <edge source="ch13.work.facade.Main" target="ch13.work.facade.CircleAdapter">
+      <point x="61.33333333333337" y="-25.5" />
+      <point x="634.8333333333333" y="248.0" />
+      <point x="1131.0" y="248.0" />
+      <point x="0.0" y="48.5" />
+    </edge>
+    <edge source="ch13.work.facade.LineAdapter" target="ch13.work.facade.Shape">
+      <point x="-75.33333333333331" y="-48.5" />
+      <point x="808.6666666666666" y="81.0" />
+      <point x="667.9895833333334" y="81.0" />
+      <point x="56.5" y="25.5" />
+    </edge>
+    <edge source="ch13.work.facade.Main" target="ch13.work.facade.Square">
+      <point x="-81.77777777777777" y="-25.5" />
+      <point x="491.7222222222222" y="258.0" />
+      <point x="39.25" y="258.0" />
+      <point x="39.25" y="91.0" />
+      <point x="33.66666666666674" y="91.0" />
+      <point x="-67.33333333333326" y="25.5" />
+    </edge>
+    <edge source="ch13.work.facade.SquareAdapter" target="ch13.work.facade.Shape">
+      <point x="75.33333333333326" y="-48.5" />
+      <point x="238.08333333333326" y="81.0" />
+      <point x="517.3229166666667" y="81.0" />
+      <point x="-94.16666666666663" y="25.5" />
+    </edge>
+    <edge source="ch13.work.facade.Main" target="ch13.work.facade.Rectangle">
+      <point x="-40.888888888888914" y="-25.5" />
+      <point x="532.6111111111111" y="238.0" />
+      <point x="286.24999999999994" y="238.0" />
+      <point x="286.24999999999994" y="71.0" />
+      <point x="278.91666666666663" y="71.0" />
+      <point x="-75.33333333333337" y="25.5" />
+    </edge>
+    <edge source="ch13.work.facade.CircleAdapter" target="ch13.work.facade.Circle">
+      <point x="0.0" y="-48.5" />
+      <point x="1131.0" y="91.0" />
+      <point x="1125.4166666666667" y="91.0" />
+      <point x="-67.33333333333331" y="25.5" />
+    </edge>
+    <edge source="ch13.work.facade.RectangleAdapter" target="ch13.work.facade.Shape">
+      <point x="83.66666666666663" y="-48.5" />
+      <point x="505.9166666666666" y="91.0" />
+      <point x="554.9895833333334" y="91.0" />
+      <point x="-56.5" y="25.5" />
+    </edge>
+    <edge source="ch13.work.facade.Main" target="ch13.work.facade.Line">
+      <point x="40.888888888888914" y="-25.5" />
+      <point x="614.3888888888889" y="238.0" />
+      <point x="1007.5" y="238.0" />
+      <point x="1007.5" y="91.0" />
+      <point x="1021.0833333333333" y="91.0" />
+      <point x="75.33333333333331" y="25.5" />
+    </edge>
+    <edge source="ch13.work.facade.RectangleAdapter" target="ch13.work.facade.Rectangle">
+      <point x="-83.66666666666674" y="-48.5" />
+      <point x="338.5833333333332" y="71.0" />
+      <point x="354.25" y="71.0" />
+      <point x="0.0" y="25.5" />
+    </edge>
+    <edge source="ch13.work.facade.SquareAdapter" target="ch13.work.facade.Square">
+      <point x="-75.33333333333326" y="-48.5" />
+      <point x="87.41666666666674" y="91.0" />
+      <point x="101.0" y="91.0" />
+      <point x="0.0" y="25.5" />
+    </edge>
+    <edge source="ch13.work.facade.LineAdapter" target="ch13.work.facade.Line">
+      <point x="75.33333333333331" y="-48.5" />
+      <point x="959.3333333333333" y="91.0" />
+      <point x="945.75" y="91.0" />
+      <point x="-1.4210854715202004E-14" y="25.5" />
+    </edge>
+    <edge source="ch13.work.facade.Main" target="ch13.work.facade.LineAdapter">
+      <point x="20.444444444444457" y="-25.5" />
+      <point x="593.9444444444443" y="228.0" />
+      <point x="884.0" y="228.0" />
+      <point x="0.0" y="48.5" />
+    </edge>
+    <edge source="ch13.work.facade.Main" target="ch13.work.facade.Shape">
+      <point x="0.0" y="-25.5" />
+      <point x="573.5" y="91.0" />
+      <point x="592.65625" y="91.0" />
+      <point x="-18.83333333333337" y="25.5" />
+    </edge>
+    <edge source="ch13.work.facade.ShapeMaker" target="ch13.work.facade.Shape">
+      <point x="0.0" y="-47.5" />
+      <point x="667.5" y="91.0" />
+      <point x="630.3229166666667" y="91.0" />
+      <point x="18.83333333333337" y="25.5" />
+    </edge>
+    <edge source="ch13.work.facade.Main" target="ch13.work.facade.Circle">
+      <point x="81.77777777777783" y="-25.5" />
+      <point x="655.2777777777778" y="258.0" />
+      <point x="1254.5" y="258.0" />
+      <point x="1254.5" y="91.0" />
+      <point x="1260.0833333333333" y="91.0" />
+      <point x="67.33333333333326" y="25.5" />
+    </edge>
+    <edge source="ch13.work.facade.Main" target="ch13.work.facade.RectangleAdapter">
+      <point x="-20.444444444444457" y="-25.5" />
+      <point x="553.0555555555554" y="228.0" />
+      <point x="422.24999999999994" y="228.0" />
+      <point x="0.0" y="48.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="647.0" y="164.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
