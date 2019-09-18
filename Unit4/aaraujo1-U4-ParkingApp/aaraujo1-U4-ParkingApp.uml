@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>us.aaraujo1</OriginalElement>
+  <nodes>
+    <node x="216.0" y="455.0">us.aaraujo1.FileInput</node>
+    <node x="158.0" y="696.0">us.aaraujo1.TicketServer</node>
+    <node x="1083.0684523809523" y="1682.0">us.aaraujo1.Main</node>
+    <node x="563.2142857142858" y="884.5">us.aaraujo1.TicketReceiptStrategy</node>
+    <node x="0.0" y="455.0">us.aaraujo1.FileOutput</node>
+    <node x="816.3809523809523" y="729.5">us.aaraujo1.Calculate</node>
+    <node x="547.2531298003071" y="511.0">us.aaraujo1.TicketFactory</node>
+    <node x="1398.4495583717357" y="1239.0">us.aaraujo1.TicketCostStrategy</node>
+    <node x="566.2142857142858" y="1436.0">us.aaraujo1.CheckIn</node>
+    <node x="1281.7762288786482" y="1425.0">us.aaraujo1.CheckOut</node>
+    <node x="863.3809523809523" y="1162.0">us.aaraujo1.Machine</node>
+    <node x="1158.3809523809523" y="1216.5">us.aaraujo1.Displayable</node>
+    <node x="1396.8810675883255" y="0.0">us.aaraujo1.Time</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="us.aaraujo1.TicketServer" target="us.aaraujo1.FileOutput">
+      <point x="-136.8888888888889" y="-203.0" />
+      <point x="175.1111111111111" y="676.0" />
+      <point x="98.0" y="676.0" />
+      <point x="0.0" y="70.5" />
+    </edge>
+    <edge source="us.aaraujo1.Machine" target="us.aaraujo1.Calculate">
+      <point x="22.916666666666742" y="-91.5" />
+      <point x="1023.797619047619" y="1122.0" />
+      <point x="1093.1309523809523" y="1122.0" />
+      <point x="92.25" y="169.5" />
+    </edge>
+    <edge source="us.aaraujo1.CheckIn" target="us.aaraujo1.FileOutput">
+      <point x="-152.33333333333326" y="-92.5" />
+      <point x="642.3809523809525" y="1395.0" />
+      <point x="82.6119815668203" y="1395.0" />
+      <point x="82.6119815668203" y="666.0" />
+      <point x="58.799999999999955" y="666.0" />
+      <point x="-39.200000000000045" y="70.5" />
+    </edge>
+    <edge source="us.aaraujo1.Calculate" target="us.aaraujo1.TicketFactory">
+      <point x="0.0" y="-169.5" />
+      <point x="1000.8809523809523" y="656.0" />
+      <point x="686.8959869431642" y="656.0" />
+      <point x="54.64285714285711" y="14.5" />
+    </edge>
+    <edge source="us.aaraujo1.Main" target="us.aaraujo1.CheckOut">
+      <point x="73.125" y="-92.0" />
+      <point x="1253.6934523809523" y="1662.0" />
+      <point x="1563.7762288786482" y="1662.0" />
+      <point x="94.0" y="103.5" />
+    </edge>
+    <edge source="us.aaraujo1.CheckOut" target="us.aaraujo1.Machine">
+      <point x="-164.5" y="-103.5" />
+      <point x="1305.2762288786482" y="1385.0" />
+      <point x="1035.2559523809523" y="1385.0" />
+      <point x="34.375" y="91.5" />
+    </edge>
+    <edge source="us.aaraujo1.Main" target="us.aaraujo1.CheckIn">
+      <point x="-73.125" y="-92.0" />
+      <point x="1107.4434523809523" y="1662.0" />
+      <point x="680.4642857142858" y="1662.0" />
+      <point x="-114.25" y="92.5" />
+    </edge>
+    <edge source="us.aaraujo1.CheckIn" target="us.aaraujo1.TicketFactory">
+      <point x="0.0" y="-92.5" />
+      <point x="794.7142857142858" y="666.0" />
+      <point x="674.7531298003071" y="666.0" />
+      <point x="42.5" y="14.5" />
+    </edge>
+    <edge source="us.aaraujo1.TicketServer" target="us.aaraujo1.FileInput">
+      <point x="0.0" y="-203.0" />
+      <point x="0.0" y="70.5" />
+    </edge>
+    <edge source="us.aaraujo1.TicketFactory" target="us.aaraujo1.Time">
+      <point x="0.0" y="-14.5" />
+      <point x="632.2531298003071" y="430.0" />
+      <point x="1455.0477342549925" y="430.0" />
+      <point x="-116.33333333333326" y="202.5" />
+    </edge>
+    <edge source="us.aaraujo1.TicketFactory" target="us.aaraujo1.TicketFactory">
+      <point x="-66.78571428571428" y="14.5" />
+      <point x="565.4674155145929" y="570.0" />
+      <point x="517.2531298003071" y="570.0" />
+      <point x="517.2531298003071" y="525.5" />
+      <point x="-85.0" y="-0.0" />
+    </edge>
+    <edge source="us.aaraujo1.CheckIn" target="us.aaraujo1.Machine">
+      <point x="50.77777777777783" y="-92.5" />
+      <point x="845.4920634920636" y="1375.0" />
+      <point x="897.7559523809523" y="1375.0" />
+      <point x="-103.125" y="91.5" />
+    </edge>
+    <edge source="us.aaraujo1.Machine" target="us.aaraujo1.Time">
+      <point x="68.75" y="-91.5" />
+      <point x="1069.6309523809523" y="1132.0" />
+      <point x="1635.9495583717357" y="1132.0" />
+      <point x="1635.9495583717357" y="430.0" />
+      <point x="1571.3810675883255" y="430.0" />
+      <point x="0.0" y="202.5" />
+    </edge>
+    <edge source="us.aaraujo1.CheckIn" target="us.aaraujo1.Displayable">
+      <point x="152.33333333333326" y="-92.5" />
+      <point x="947.047619047619" y="1395.0" />
+      <point x="1209.6309523809523" y="1395.0" />
+      <point x="-51.25" y="37.0" />
+    </edge>
+    <edge source="us.aaraujo1.CheckOut" target="us.aaraujo1.TicketFactory">
+      <point x="117.5" y="-103.5" />
+      <point x="1587.2762288786482" y="1405.0" />
+      <point x="1613.9495583717357" y="1405.0" />
+      <point x="1613.9495583717357" y="646.0" />
+      <point x="699.0388440860213" y="646.0" />
+      <point x="66.78571428571422" y="14.5" />
+    </edge>
+    <edge source="us.aaraujo1.CheckIn" target="us.aaraujo1.TicketCostStrategy">
+      <point x="203.1111111111111" y="-92.5" />
+      <point x="997.8253968253969" y="1405.0" />
+      <point x="1424.0745583717357" y="1405.0" />
+      <point x="-76.875" y="14.5" />
+    </edge>
+    <edge source="us.aaraujo1.CheckOut" target="us.aaraujo1.Displayable">
+      <point x="-70.5" y="-103.5" />
+      <point x="1399.2762288786482" y="1365.0" />
+      <point x="1312.1309523809523" y="1365.0" />
+      <point x="51.25" y="37.0" />
+    </edge>
+    <edge source="us.aaraujo1.TicketServer" target="us.aaraujo1.TicketFactory">
+      <point x="136.8888888888889" y="-203.0" />
+      <point x="448.8888888888889" y="646.0" />
+      <point x="614.0388440860213" y="646.0" />
+      <point x="-18.21428571428578" y="14.5" />
+    </edge>
+    <edge source="us.aaraujo1.TicketReceiptStrategy" target="us.aaraujo1.TicketFactory">
+      <point x="-55.25" y="-14.5" />
+      <point x="618.4642857142858" y="676.0" />
+      <point x="650.4674155145927" y="676.0" />
+      <point x="18.214285714285666" y="14.5" />
+    </edge>
+    <edge source="us.aaraujo1.Machine" target="us.aaraujo1.TicketServer">
+      <point x="-68.75" y="-91.5" />
+      <point x="932.1309523809523" y="1132.0" />
+      <point x="389.0" y="1132.0" />
+      <point x="77.0" y="203.0" />
+    </edge>
+    <edge source="us.aaraujo1.TicketReceiptStrategy" target="us.aaraujo1.TicketReceiptStrategy">
+      <point x="55.25" y="14.5" />
+      <point x="728.9642857142858" y="943.5" />
+      <point x="533.2142857142858" y="943.5" />
+      <point x="533.2142857142858" y="891.75" />
+      <point x="-110.5" y="-7.25" />
+    </edge>
+    <edge source="us.aaraujo1.CheckOut" target="us.aaraujo1.TicketCostStrategy">
+      <point x="23.5" y="-103.5" />
+      <point x="1493.2762288786482" y="1405.0" />
+      <point x="1526.5745583717357" y="1405.0" />
+      <point x="25.625" y="14.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.41304347826086957" x="873.0" y="933.0" />
+  <SelectedNodes>
+    <node>us.aaraujo1.FileInput</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

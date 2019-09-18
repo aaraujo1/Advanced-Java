@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="431.5000000000001" y="372.0">Shield</node>
+    <node x="218.50000000000006" y="372.0">Starving</node>
+    <node x="453.92500000000007" y="163.0">CharacterDecorator</node>
+    <node x="10.5" y="372.0">Stuffed</node>
+    <node x="1064.457971014493" y="618.0">MountainStory</node>
+    <node x="1059.5" y="372.0">Sword</node>
+    <node x="561.2583333333333" y="0.0">Character</node>
+    <node x="181.2648550724639" y="618.0">HungryStory</node>
+    <node x="827.5000000000001" y="372.0">BasicCharacter</node>
+    <node x="626.7061594202901" y="629.5">Main</node>
+    <node x="630.5000000000001" y="372.0">Spear</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Stuffed" target="Character">
+      <point x="-62.66666666666663" y="-48.0" />
+      <point x="41.83333333333337" y="302.0" />
+      <point x="101.5663043478263" y="302.0" />
+      <point x="101.5663043478263" y="103.0" />
+      <point x="578.2583333333333" y="103.0" />
+      <point x="-51.0" y="36.5" />
+    </edge>
+    <edge source="Shield" target="CharacterDecorator">
+      <point x="59.66666666666663" y="-48.0" />
+      <point x="580.6666666666667" y="352.0" />
+      <point x="598.5750000000002" y="352.0" />
+      <point x="13.150000000000091" y="59.5" />
+    </edge>
+    <edge source="MountainStory" target="BasicCharacter">
+      <point x="0.0" y="-37.0" />
+      <point x="1156.457971014493" y="488.0" />
+      <point x="1004.1666666666667" y="488.0" />
+      <point x="70.66666666666663" y="48.0" />
+    </edge>
+    <edge source="Main" target="Character">
+      <point x="76.66666666666663" y="-25.5" />
+      <point x="795.3728260869568" y="588.0" />
+      <point x="1251.0" y="588.0" />
+      <point x="1251.0" y="103.0" />
+      <point x="680.2583333333333" y="103.0" />
+      <point x="51.0" y="36.5" />
+    </edge>
+    <edge source="MountainStory" target="Spear">
+      <point x="-36.799999999999955" y="-37.0" />
+      <point x="1119.657971014493" y="498.0" />
+      <point x="778.0000000000001" y="498.0" />
+      <point x="59.0" y="48.0" />
+    </edge>
+    <edge source="Main" target="Sword">
+      <point x="46.0" y="-25.5" />
+      <point x="764.7061594202901" y="578.0" />
+      <point x="1104.75" y="578.0" />
+      <point x="-45.25" y="48.0" />
+    </edge>
+    <edge source="HungryStory" target="Character">
+      <point x="-76.66666666666674" y="-37.0" />
+      <point x="196.59818840579715" y="598.0" />
+      <point x="0.0" y="598.0" />
+      <point x="0.0" y="93.0" />
+      <point x="566.925" y="93.0" />
+      <point x="-62.33333333333337" y="36.5" />
+    </edge>
+    <edge source="HungryStory" target="BasicCharacter">
+      <point x="76.66666666666669" y="-37.0" />
+      <point x="349.9315217391306" y="558.0" />
+      <point x="862.8333333333335" y="558.0" />
+      <point x="-70.66666666666663" y="48.0" />
+    </edge>
+    <edge source="CharacterDecorator" target="Character">
+      <point x="0.0" y="-59.5" />
+      <point x="585.4250000000001" y="143.0" />
+      <point x="623.5916666666667" y="143.0" />
+      <point x="-5.666666666666629" y="36.5" />
+    </edge>
+    <edge source="Spear" target="Character">
+      <point x="59.0" y="-48.0" />
+      <point x="778.0000000000001" y="133.0" />
+      <point x="646.2583333333333" y="133.0" />
+      <point x="17.0" y="36.5" />
+    </edge>
+    <edge source="HungryStory" target="Spear">
+      <point x="46.0" y="-37.0" />
+      <point x="319.2648550724639" y="548.0" />
+      <point x="660.0000000000001" y="548.0" />
+      <point x="-59.0" y="48.0" />
+    </edge>
+    <edge source="Sword" target="Character">
+      <point x="60.33333333333326" y="-48.0" />
+      <point x="1210.3333333333335" y="312.0" />
+      <point x="1134.389855072464" y="312.0" />
+      <point x="1134.389855072464" y="113.0" />
+      <point x="668.9250000000001" y="113.0" />
+      <point x="39.66666666666674" y="36.5" />
+    </edge>
+    <edge source="MountainStory" target="Character">
+      <point x="73.59999999999991" y="-37.0" />
+      <point x="1230.057971014493" y="598.0" />
+      <point x="1337.1496376811597" y="598.0" />
+      <point x="1337.1496376811597" y="93.0" />
+      <point x="691.5916666666667" y="93.0" />
+      <point x="62.33333333333337" y="36.5" />
+    </edge>
+    <edge source="Stuffed" target="CharacterDecorator">
+      <point x="62.66666666666666" y="-48.0" />
+      <point x="167.16666666666663" y="322.0" />
+      <point x="493.37500000000006" y="322.0" />
+      <point x="-92.05000000000001" y="59.5" />
+    </edge>
+    <edge source="Shield" target="Character">
+      <point x="-59.66666666666663" y="-48.0" />
+      <point x="461.3333333333335" y="302.0" />
+      <point x="443.42500000000007" y="302.0" />
+      <point x="443.42500000000007" y="123.0" />
+      <point x="600.925" y="123.0" />
+      <point x="-28.33333333333337" y="36.5" />
+    </edge>
+    <edge source="Main" target="Starving">
+      <point x="-76.66666666666674" y="-25.5" />
+      <point x="642.0394927536233" y="528.0" />
+      <point x="363.25000000000006" y="528.0" />
+      <point x="48.25" y="48.0" />
+    </edge>
+    <edge source="Main" target="Shield">
+      <point x="-46.0" y="-25.5" />
+      <point x="672.7061594202901" y="518.0" />
+      <point x="521.0000000000001" y="518.0" />
+      <point x="0.0" y="48.0" />
+    </edge>
+    <edge source="Sword" target="CharacterDecorator">
+      <point x="-60.33333333333326" y="-48.0" />
+      <point x="1089.666666666667" y="332.0" />
+      <point x="677.4750000000001" y="332.0" />
+      <point x="92.05000000000007" y="59.5" />
+    </edge>
+    <edge source="HungryStory" target="Starving">
+      <point x="-15.333333333333371" y="-37.0" />
+      <point x="257.9315217391305" y="598.0" />
+      <point x="266.75000000000006" y="598.0" />
+      <point x="-48.25" y="48.0" />
+    </edge>
+    <edge source="Spear" target="CharacterDecorator">
+      <point x="-59.0" y="-48.0" />
+      <point x="660.0000000000001" y="352.0" />
+      <point x="624.8750000000001" y="352.0" />
+      <point x="39.450000000000045" y="59.5" />
+    </edge>
+    <edge source="MountainStory" target="Sword">
+      <point x="36.799999999999955" y="-37.0" />
+      <point x="1193.2579710144928" y="578.0" />
+      <point x="1195.25" y="578.0" />
+      <point x="45.25" y="48.0" />
+    </edge>
+    <edge source="BasicCharacter" target="Character">
+      <point x="-1.1368683772161603E-13" y="-48.0" />
+      <point x="933.5" y="352.0" />
+      <point x="1008.6496376811594" y="352.0" />
+      <point x="1008.6496376811594" y="123.0" />
+      <point x="657.5916666666667" y="123.0" />
+      <point x="28.33333333333337" y="36.5" />
+    </edge>
+    <edge source="Main" target="BasicCharacter">
+      <point x="15.333333333333371" y="-25.5" />
+      <point x="734.0394927536236" y="568.0" />
+      <point x="933.5000000000001" y="568.0" />
+      <point x="0.0" y="48.0" />
+    </edge>
+    <edge source="Main" target="Spear">
+      <point x="-15.333333333333371" y="-25.5" />
+      <point x="703.3728260869568" y="548.0" />
+      <point x="719.0000000000001" y="548.0" />
+      <point x="0.0" y="48.0" />
+    </edge>
+    <edge source="HungryStory" target="Shield">
+      <point x="15.333333333333314" y="-37.0" />
+      <point x="288.5981884057972" y="538.0" />
+      <point x="461.3333333333334" y="538.0" />
+      <point x="-59.666666666666686" y="48.0" />
+    </edge>
+    <edge source="Starving" target="Character">
+      <point x="-64.33333333333331" y="-48.0" />
+      <point x="250.66666666666674" y="113.0" />
+      <point x="589.5916666666667" y="113.0" />
+      <point x="-39.66666666666663" y="36.5" />
+    </edge>
+    <edge source="Starving" target="CharacterDecorator">
+      <point x="0.0" y="-48.0" />
+      <point x="315.00000000000006" y="332.0" />
+      <point x="519.6750000000001" y="332.0" />
+      <point x="-65.75" y="59.5" />
+    </edge>
+    <edge source="HungryStory" target="Stuffed">
+      <point x="-46.00000000000003" y="-37.0" />
+      <point x="227.2648550724639" y="588.0" />
+      <point x="104.5" y="588.0" />
+      <point x="0.0" y="48.0" />
+    </edge>
+    <edge source="MountainStory" target="Shield">
+      <point x="-73.60000000000014" y="-37.0" />
+      <point x="1082.8579710144927" y="508.0" />
+      <point x="580.6666666666667" y="508.0" />
+      <point x="59.66666666666663" y="48.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.6036811783938082" x="932.006733379425" y="498.48560333251953" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

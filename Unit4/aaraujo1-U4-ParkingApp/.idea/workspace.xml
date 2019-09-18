@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d37941c-7ea0-4ebd-b246-730d5749193c" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/aaraujo1_U4_ParkingApp$Main.ic" NAME="Main Coverage Results" MODIFIED="1543990453080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>us.aaraujo1.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="201" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/LostTicketCostStrategyTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/us/aaraujo1/TicketCostStrategy/HourlyTicketCostStrategy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/HourlyTicketCostStrategyTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#585#586#0" expanded="true" />
+                <element signature="e#635#636#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaDoc/stylesheet.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/us/aaraujo1/Machine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="80" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/us/aaraujo1/Time.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="930">
+              <caret line="66" column="108" selection-start-line="66" selection-start-column="57" selection-end-line="66" selection-end-column="108" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#4024#4025#0" expanded="true" />
+                <element signature="e#4056#4057#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/CheckInTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/us/aaraujo1/CheckOut.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1240#1241#0" expanded="true" />
+                <element signature="e#1281#1282#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/TimeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/CalculateTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="30" selection-start-line="29" selection-start-column="8" selection-end-line="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1298#1299#0" expanded="true" />
+                <element signature="e#1344#1345#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Class" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getCheckOutTime</find>
+      <find>new</find>
+      <find>lostTicket</find>
+      <find>Ticket_</find>
+      <find>Ticket_OLD</find>
+      <find>checkOutTicket(</find>
+      <find>void s</find>
+      <find>void g</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Ticket</replace>
+      <replace>void testS</replace>
+      <replace>void testG</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/us/aaraujo1/SpecialTicket.java" />
+        <option value="$PROJECT_DIR$/src/us/aaraujo1/OldTicket.java" />
+        <option value="$PROJECT_DIR$/src/us/aaraujo1/HourlyTicketCostStrategy.java" />
+        <option value="$PROJECT_DIR$/test/TicketTest.java" />
+        <option value="$PROJECT_DIR$/src/us/aaraujo1/factory/TicketFactory.java" />
+        <option value="$PROJECT_DIR$/src/us/aaraujo1/factory/SpecialTicket.java" />
+        <option value="$PROJECT_DIR$/src/us/aaraujo1/factory/Ticket.java" />
+        <option value="$PROJECT_DIR$/src/us/aaraujo1/factory/HourlyTicket.java" />
+        <option value="$PROJECT_DIR$/src/us/aaraujo1/factory/TicketType.java" />
+        <option value="$PROJECT_DIR$/src/us/aaraujo1/factory/OldTicket.java" />
+        <option value="$PROJECT_DIR$/test/FileInputTest.java" />
+        <option value="$PROJECT_DIR$/test/FileOutputTest.java" />
+        <option value="$PROJECT_DIR$/src/us/aaraujo1/strategy/LostTicketCostStrategy.java" />
+        <option value="$PROJECT_DIR$/src/us/aaraujo1/strategy/SpecialTicketCostStrategy.java" />
+        <option value="$PROJECT_DIR$/src/us/aaraujo1/strategy/HourlyTicketCostStrategy.java" />
+        <option value="$PROJECT_DIR$/src/us/aaraujo1/strategy/TicketCostStrategy.java" />
+        <option value="$PROJECT_DIR$/src/us/aaraujo1/Machine.java" />
+        <option value="$PROJECT_DIR$/src/us/aaraujo1/FileOutput.java" />
+        <option value="$PROJECT_DIR$/src/us/aaraujo1/FileInput.java" />
+        <option value="$PROJECT_DIR$/src/us/aaraujo1/Displayable.java" />
+        <option value="$PROJECT_DIR$/src/us/aaraujo1/TicketFactory/TicketType.java" />
+        <option value="$PROJECT_DIR$/src/us/aaraujo1/TicketReceiptStrategy/Printable.java" />
+        <option value="$PROJECT_DIR$/src/us/aaraujo1/TicketReceiptStrategy/ReceiptStrategy.java" />
+        <option value="$PROJECT_DIR$/src/us/aaraujo1/TicketReceiptStrategy/Receipt.java" />
+        <option value="$PROJECT_DIR$/src/us/aaraujo1/Time.java" />
+        <option value="$PROJECT_DIR$/test/TimeTest.java" />
+        <option value="$PROJECT_DIR$/test/us/aaraujo1/TicketServerTest.java" />
+        <option value="$PROJECT_DIR$/test/CalculateTest.java" />
+        <option value="$PROJECT_DIR$/test/TicketServerTest.java" />
+        <option value="$PROJECT_DIR$/src/us/aaraujo1/TicketFactory/Ticket.java" />
+        <option value="$PROJECT_DIR$/src/us/aaraujo1/TicketCostStrategy/HourlyTicketCostStrategy.java" />
+        <option value="$PROJECT_DIR$/src/us/aaraujo1/TicketFactory/OldTicket.java" />
+        <option value="$PROJECT_DIR$/src/us/aaraujo1/TicketFactory/TicketFactory.java" />
+        <option value="$PROJECT_DIR$/src/us/aaraujo1/Calculate.java" />
+        <option value="$PROJECT_DIR$/src/us/aaraujo1/CheckIn.java" />
+        <option value="$PROJECT_DIR$/src/us/aaraujo1/TicketFactory/SpecialTicket.java" />
+        <option value="$PROJECT_DIR$/src/us/aaraujo1/TicketFactory/HourlyTicket.java" />
+        <option value="$PROJECT_DIR$/src/us/aaraujo1/Main.java" />
+        <option value="$PROJECT_DIR$/src/us/aaraujo1/TicketServer.java" />
+        <option value="$PROJECT_DIR$/test/us/aaraujo1/CheckInTest.java" />
+        <option value="$PROJECT_DIR$/test/CheckInTest.java" />
+        <option value="$PROJECT_DIR$/test/CheckOutTest.java" />
+        <option value="$PROJECT_DIR$/src/us/aaraujo1/CheckOut.java" />
+        <option value="$PROJECT_DIR$/test/HourlyTicketTest.java" />
+        <option value="$PROJECT_DIR$/test/SpecialTicketTest.java" />
+        <option value="$PROJECT_DIR$/test/OldTicketTest.java" />
+        <option value="$PROJECT_DIR$/test/us/aaraujo1/TicketCostStrategy/SpecialTicketCostStrategyTest.java" />
+        <option value="$PROJECT_DIR$/test/SpecialTicketCostStrategyTest.java" />
+        <option value="$PROJECT_DIR$/test/us/aaraujo1/TicketCostStrategy/LostTicketCostStrategyTest.java" />
+        <option value="$PROJECT_DIR$/test/LostTicketCostStrategyTest.java" />
+        <option value="$PROJECT_DIR$/test/HourlyTicketCostStrategyTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="80" />
+    <option name="height" value="22" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="aaraujo1-U4-ParkingApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aaraujo1-U4-ParkingApp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aaraujo1-U4-ParkingApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aaraujo1-U4-ParkingApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aaraujo1-U4-ParkingApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aaraujo1-U4-ParkingApp" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543992109378" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="junit.framework.TestCase" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+      <recent name="us.aaraujo1.TicketCostStrategy" />
+      <recent name="us.aaraujo1" />
+      <recent name="us.aaraujo1.test" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.HourlyTicketCostStrategyTest">
+    <configuration name="HourlyTicketCostStrategyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aaraujo1-U4-ParkingApp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HourlyTicketCostStrategyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LostTicketCostStrategyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aaraujo1-U4-ParkingApp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LostTicketCostStrategyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OldTicketTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aaraujo1-U4-ParkingApp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OldTicketTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpecialTicketCostStrategyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aaraujo1-U4-ParkingApp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SpecialTicketCostStrategyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpecialTicketTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aaraujo1-U4-ParkingApp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SpecialTicketTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SpecialTicketTest" />
+      <item itemvalue="JUnit.OldTicketTest" />
+      <item itemvalue="JUnit.SpecialTicketCostStrategyTest" />
+      <item itemvalue="JUnit.LostTicketCostStrategyTest" />
+      <item itemvalue="JUnit.HourlyTicketCostStrategyTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HourlyTicketCostStrategyTest" />
+        <item itemvalue="JUnit.LostTicketCostStrategyTest" />
+        <item itemvalue="JUnit.SpecialTicketCostStrategyTest" />
+        <item itemvalue="JUnit.OldTicketTest" />
+        <item itemvalue="JUnit.SpecialTicketTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d37941c-7ea0-4ebd-b246-730d5749193c" name="Default Changelist" comment="" />
+      <created>1537907958917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537907958917</updated>
+      <workItem from="1538502461731" duration="3506000" />
+      <workItem from="1538524658417" duration="14624000" />
+      <workItem from="1538600475853" duration="3483000" />
+      <workItem from="1538605267323" duration="49000" />
+      <workItem from="1539538562880" duration="1257000" />
+      <workItem from="1543354202343" duration="152000" />
+      <workItem from="1543354388965" duration="1201000" />
+      <workItem from="1543355700573" duration="6560000" />
+      <workItem from="1543362305563" duration="52000" />
+      <workItem from="1543442751029" duration="4093000" />
+      <workItem from="1543618812172" duration="25458000" />
+      <workItem from="1543822285467" duration="2475000" />
+      <workItem from="1543895201833" duration="2420000" />
+      <workItem from="1543928336557" duration="15212000" />
+      <workItem from="1543960082421" duration="6604000" />
+      <workItem from="1543967393235" duration="5935000" />
+      <workItem from="1550698395676" duration="1379000" />
+      <workItem from="1550707315599" duration="314000" />
+    </task>
+    <task id="LOCAL-00001" summary="Adding JavaDoc">
+      <created>1538505465686</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1538505465686</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding JUnit">
+      <created>1538527665565</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1538527665565</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Adding JUnit">
+      <created>1538527818178</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1538527818178</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Adding JUnit">
+      <created>1538540847393</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1538540847393</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adding Documents">
+      <created>1538545184095</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1538545184095</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Recreated JavaDoc">
+      <created>1538545223712</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1538545223712</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Improved classes for better testing. Reproduced JavaDoc and Class Diagram">
+      <created>1538603871384</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1538603871384</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Adding TickerServer class">
+      <created>1543362341489</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1543362341489</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Logic working">
+      <created>1543948402615</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1543948402615</updated>
+    </task>
+    <task id="LOCAL-00010" summary="JavaDoc">
+      <created>1543967506027</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1543967506027</updated>
+    </task>
+    <task id="LOCAL-00011" summary="JavaDoc, JUnit and UML">
+      <created>1543992064370</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1543992064370</updated>
+    </task>
+    <task id="LOCAL-00012" summary="JavaDoc, JUnit and UML">
+      <created>1543992090033</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1543992090033</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="HourlyTicketTest - 2018.12.05 at 00h 28m 51s.xml">
+      <configuration name="HourlyTicketTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpecialTicketTest - 2018.12.05 at 00h 29m 37s.xml">
+      <configuration name="SpecialTicketTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OldTicketTest - 2018.12.05 at 00h 31m 27s.xml">
+      <configuration name="OldTicketTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OldTicketTest - 2018.12.05 at 00h 32m 13s.xml">
+      <configuration name="OldTicketTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpecialTicketCostStrategyTest - 2018.12.05 at 00h 34m 02s.xml">
+      <configuration name="SpecialTicketCostStrategyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpecialTicketCostStrategyTest - 2018.12.05 at 00h 34m 19s.xml">
+      <configuration name="SpecialTicketCostStrategyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LostTicketCostStrategyTest - 2018.12.05 at 00h 35m 52s.xml">
+      <configuration name="LostTicketCostStrategyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HourlyTicketCostStrategyTest - 2018.12.05 at 00h 37m 47s.xml">
+      <configuration name="HourlyTicketCostStrategyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HourlyTicketCostStrategyTest - 2018.12.05 at 00h 38m 08s.xml">
+      <configuration name="HourlyTicketCostStrategyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HourlyTicketCostStrategyTest - 2018.12.05 at 00h 38m 20s.xml">
+      <configuration name="HourlyTicketCostStrategyTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="94774000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1788269" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32771084" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3253012" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32650602" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="PlantUML" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.3297568" />
+      <window_info anchor="right" id="Maven" order="11" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17453505" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32771084" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3253012" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32650602" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.3297568" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="PlantUML" order="9" />
+      <window_info anchor="right" id="Database" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Adding JavaDoc" />
+    <MESSAGE value="Adding JUnit" />
+    <MESSAGE value="Adding Documents" />
+    <MESSAGE value="Recreated JavaDoc" />
+    <MESSAGE value="Improved classes for better testing. Reproduced JavaDoc and Class Diagram" />
+    <MESSAGE value="Adding TickerServer class" />
+    <MESSAGE value="Logic working" />
+    <MESSAGE value="JavaDoc" />
+    <MESSAGE value="JavaDoc, JUnit and UML" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaDoc, JUnit and UML" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/us/aaraujo1/Database.java" />
+    <entry file="uml://JavaScript-modules-diagram//Users/andregaraujo/IdeaProjects/AdvJava/Unit2/ParkingApp/src/us/aaraujo1">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/us/aaraujo1</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="781.0" y="480.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aaraujo1.uml" />
+    <entry file="file://$PROJECT_DIR$/src/us/aaraujo1/test/MainTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/us/aaraujo1/Ticket_OLD.java" />
+    <entry file="file://$PROJECT_DIR$/test/TicketTest.java" />
+    <entry file="file://$PROJECT_DIR$/test/FileInputTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/us/aaraujo1/FileOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/us/aaraujo1/FileInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/us/aaraujo1/Displayable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/us/aaraujo1/TicketFactory/TicketType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/us/aaraujo1/TicketReceiptStrategy/Printable.java" />
+    <entry file="file://$PROJECT_DIR$/src/us/aaraujo1/TicketReceiptStrategy/Receipt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+            <element signature="e#737#738#0" expanded="true" />
+            <element signature="e#773#774#0" expanded="true" />
+            <element signature="e#853#854#0" expanded="true" />
+            <element signature="e#891#892#0" expanded="true" />
+            <element signature="e#962#963#0" expanded="true" />
+            <element signature="e#1016#1017#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/us/aaraujo1/TicketReceiptStrategy/ReceiptStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/FileOutputTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/us/aaraujo1/TicketFactory/Ticket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="42" column="7" selection-start-line="38" selection-start-column="4" selection-end-line="42" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/us/aaraujo1/Calculate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-491">
+          <caret line="76" column="34" selection-start-line="76" selection-start-column="34" selection-end-line="76" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/us/aaraujo1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="127" column="36" selection-start-line="127" selection-start-column="36" selection-end-line="127" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/us.aaraujo1">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>us.aaraujo1</OriginalElement>
+          <nodes>
+            <node x="" y="">us.aaraujo1.FileInput</node>
+            <node x="" y="">us.aaraujo1.TicketServer</node>
+            <node x="" y="">us.aaraujo1.Main</node>
+            <node x="" y="">us.aaraujo1.TicketReceiptStrategy</node>
+            <node x="" y="">us.aaraujo1.FileOutput</node>
+            <node x="" y="">us.aaraujo1.Calculate</node>
+            <node x="" y="">us.aaraujo1.TicketFactory</node>
+            <node x="" y="">us.aaraujo1.TicketCostStrategy</node>
+            <node x="" y="">us.aaraujo1.CheckIn</node>
+            <node x="" y="">us.aaraujo1.CheckOut</node>
+            <node x="" y="">us.aaraujo1.Machine</node>
+            <node x="" y="">us.aaraujo1.Displayable</node>
+            <node x="" y="">us.aaraujo1.Time</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.41304347826086957" x="873.0" y="933.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/us/aaraujo1/TicketServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162">
+          <caret line="140" column="54" selection-start-line="140" selection-start-column="54" selection-end-line="140" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/us/aaraujo1/CheckInTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/us/aaraujo1/CheckIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-534">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#welcomeOutput#0;class#CheckIn#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/CheckOutTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aaraujo1-U4-ParkingApp.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/us/aaraujo1/TicketFactory/TicketFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/us/aaraujo1/TicketFactory/SpecialTicket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/us/aaraujo1/TicketFactory/HourlyTicket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-195">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding>
+            <element signature="e#4033#4034#0" expanded="true" />
+            <element signature="e#4060#4061#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/SpecialTicketTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="48" column="29" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
+          <folding>
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#977#978#0" expanded="true" />
+            <element signature="e#1045#1046#0" expanded="true" />
+            <element signature="e#1083#1084#0" expanded="true" />
+            <element signature="e#1122#1123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/TicketServerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/HourlyTicketTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="54" column="5" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="54" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#1083#1084#0" expanded="true" />
+            <element signature="e#1113#1114#0" expanded="true" />
+            <element signature="e#1178#1179#0" expanded="true" />
+            <element signature="e#1206#1207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/us/aaraujo1/TicketFactory/OldTicket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/OldTicketTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+          <folding>
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#1048#1049#0" expanded="true" />
+            <element signature="e#1116#1117#0" expanded="true" />
+            <element signature="e#1154#1155#0" expanded="true" />
+            <element signature="e#1193#1194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/us/aaraujo1/TicketCostStrategy/TicketCostStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/us/aaraujo1/TicketCostStrategy/SpecialTicketCostStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/us/aaraujo1/TicketCostStrategy/LostTicketCostStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="65" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/SpecialTicketCostStrategyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/LostTicketCostStrategyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/us/aaraujo1/TicketCostStrategy/HourlyTicketCostStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/HourlyTicketCostStrategyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#635#636#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaDoc/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/us/aaraujo1/Machine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/us/aaraujo1/Time.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="66" column="108" selection-start-line="66" selection-start-column="57" selection-end-line="66" selection-end-column="108" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4024#4025#0" expanded="true" />
+            <element signature="e#4056#4057#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/CheckInTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/us/aaraujo1/CheckOut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1240#1241#0" expanded="true" />
+            <element signature="e#1281#1282#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/CalculateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="30" selection-start-line="29" selection-start-column="8" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1298#1299#0" expanded="true" />
+            <element signature="e#1344#1345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/TimeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ParkingApp</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
