@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>us.aaraujo1</OriginalElement>
+  <nodes>
+    <node x="241.0" y="1074.0">us.aaraujo1.FileInput</node>
+    <node x="747.0" y="756.0">us.aaraujo1.Ticket</node>
+    <node x="0.0" y="605.0">us.aaraujo1.CheckIn</node>
+    <node x="394.0" y="756.0">us.aaraujo1.Main</node>
+    <node x="0.0" y="1074.0">us.aaraujo1.FileOutput</node>
+    <node x="477.0" y="594.0">us.aaraujo1.CheckOut</node>
+    <node x="65.5" y="460.0">us.aaraujo1.Display</node>
+    <node x="561.0" y="427.0">us.aaraujo1.Machine</node>
+    <node x="0.0" y="756.0">us.aaraujo1.Time</node>
+    <node x="0.0" y="0.0">us.aaraujo1.Calculate</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="us.aaraujo1.CheckIn" target="us.aaraujo1.Display">
+      <point x="-114.25" y="-47.5" />
+      <point x="-48.75" y="25.5" />
+    </edge>
+    <edge source="us.aaraujo1.CheckOut" target="us.aaraujo1.Display">
+      <point x="-96.75" y="-58.5" />
+      <point x="573.75" y="564.0" />
+      <point x="211.75" y="564.0" />
+      <point x="48.75" y="25.5" />
+    </edge>
+    <edge source="us.aaraujo1.CheckIn" target="us.aaraujo1.Machine">
+      <point x="114.25" y="-47.5" />
+      <point x="342.75" y="574.0" />
+      <point x="629.75" y="574.0" />
+      <point x="-68.75" y="58.5" />
+    </edge>
+    <edge source="us.aaraujo1.CheckOut" target="us.aaraujo1.Machine">
+      <point x="96.75" y="-58.5" />
+      <point x="68.75" y="58.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.9906781931215566" x="510.56702684978336" y="857.1650082785341" />
+  <SelectedNodes>
+    <node>us.aaraujo1.FileInput</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+    <Category>Constructors</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
